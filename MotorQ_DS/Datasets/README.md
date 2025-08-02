@@ -18,9 +18,6 @@
 - Make sure your repository is public or share access with the evaluation team
 - Include a clear README explaining your approach and how to run your code
 
-### Step 5: Clean Up
-🗑️ **Delete the dataset after completion** - For data privacy and security reasons, please delete all assignment data from your local machine once you've submitted your work.
-
 ## Need Help?
 💬 **Feel free to reach out to the Motorq team** if you have any questions or need clarification during the assignment.
 
