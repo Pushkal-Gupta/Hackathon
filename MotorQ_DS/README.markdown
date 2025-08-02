@@ -1,4 +1,4 @@
-# Vehicle Telematics Analysis README
+# Vehicle Telematics Analysis
 
 ## MotorQ Data Science Internship Hackathon
 This project was developed for the **MotorQ Data Science Internship Hackathon 2025**, an individual coding challenge for the Data Science Intern role at MotorQ. The hackathon focused on analyzing vehicle telematics data to demonstrate skills in data cleaning, event extraction, and robust logic implementation. The assignment required processing multiple datasets, handling edge cases, and documenting assumptions and trade-offs, with evaluation based on correctness (40%), code clarity (25%), data quality review (20%), and write-up clarity (15%).
