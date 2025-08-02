@@ -1,5 +1,8 @@
 # Vehicle Telematics Analysis README
 
+## MotorQ Data Science Internship Hackathon
+This project was developed for the **MotorQ Data Science Internship Hackathon 2025**, an individual coding challenge for the Data Science Intern role at MotorQ. The hackathon focused on analyzing vehicle telematics data to demonstrate skills in data cleaning, event extraction, and robust logic implementation. The assignment required processing multiple datasets, handling edge cases, and documenting assumptions and trade-offs, with evaluation based on correctness (40%), code clarity (25%), data quality review (20%), and write-up clarity (15%).
+
 ## Overview
 This project processes vehicle telematics data to extract ignition and charging status events, performing data sanity checks, event extraction, and battery level association as per the hackathon requirements. The code is implemented in Python using pandas, numpy, matplotlib, seaborn, and scipy for data processing and analysis.
 
