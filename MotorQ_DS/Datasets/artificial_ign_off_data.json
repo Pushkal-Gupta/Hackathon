@@ -1,0 +1,2057 @@
+[
+    {
+        "vehicleId": "3e937810-3a3b-48d6-80ad-56ae12c3bed8",
+        "timestamp": "2022-01-31T19:13:06.001Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "3e937810-3a3b-48d6-80ad-56ae12c3bed8",
+        "timestamp": "2022-01-31T04:25:05.011Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "460a67ab-ee58-4279-b96d-ac56ac029d3e",
+        "timestamp": "2022-01-30T01:58:57.004Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "9893c80d-f282-46cf-a794-280f0306c936",
+        "timestamp": "2022-01-30T21:43:42.027Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fb20e847-d2a1-4583-b874-393c9d1f3db9",
+        "timestamp": "2022-01-31T04:25:05.038Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "3e937810-3a3b-48d6-80ad-56ae12c3bed8",
+        "timestamp": "2022-01-31T02:09:33.600Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "66bd55df-eaf0-49c8-b9e1-7759b85e9325",
+        "timestamp": "2022-01-30T21:43:44.021Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "19c4f06a-d5c7-4e51-ae2c-56c5367c0d50",
+        "timestamp": "2022-01-30T19:44:07.038Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "66bd55df-eaf0-49c8-b9e1-7759b85e9325",
+        "timestamp": "2022-01-30T19:43:57.009Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2022-01-30T19:44:04.018Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "9893c80d-f282-46cf-a794-280f0306c936",
+        "timestamp": "2022-01-30T19:43:53.009Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "3e937810-3a3b-48d6-80ad-56ae12c3bed8",
+        "timestamp": "2022-01-30T19:15:39.045Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "19c4f06a-d5c7-4e51-ae2c-56c5367c0d50",
+        "timestamp": "2022-01-29T19:46:08.025Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "66bd55df-eaf0-49c8-b9e1-7759b85e9325",
+        "timestamp": "2022-01-30T05:50:00.024Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-29T23:01:12.018Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "9893c80d-f282-46cf-a794-280f0306c936",
+        "timestamp": "2022-01-29T23:01:30.040Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "d44b765e-d86f-46f8-ba46-8cd913c49285",
+        "timestamp": "2022-01-28T21:45:21.157Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "19c4f06a-d5c7-4e51-ae2c-56c5367c0d50",
+        "timestamp": "2022-01-29T01:31:13.100Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-29T11:40:45.040Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fc86bd41-dd55-4d15-bb3f-35e31c7759e6",
+        "timestamp": "2022-01-29T07:52:42.040Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fb20e847-d2a1-4583-b874-393c9d1f3db9",
+        "timestamp": "2022-01-29T07:52:44.033Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2022-01-29T03:33:08.021Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "66bd55df-eaf0-49c8-b9e1-7759b85e9325",
+        "timestamp": "2022-01-29T03:33:09.003Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-29T03:33:08.025Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fc86bd41-dd55-4d15-bb3f-35e31c7759e6",
+        "timestamp": "2022-01-29T02:14:24.006Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "19c4f06a-d5c7-4e51-ae2c-56c5367c0d50",
+        "timestamp": "2022-01-28T20:31:07.037Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "66bd55df-eaf0-49c8-b9e1-7759b85e9325",
+        "timestamp": "2022-01-28T20:30:57.006Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "9893c80d-f282-46cf-a794-280f0306c936",
+        "timestamp": "2022-01-28T19:16:14.018Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-28T17:09:43.018Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "19c4f06a-d5c7-4e51-ae2c-56c5367c0d50",
+        "timestamp": "2022-01-28T17:10:11.008Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "d44b765e-d86f-46f8-ba46-8cd913c49285",
+        "timestamp": "2022-01-28T16:52:07.027Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2022-01-28T01:22:40.042Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "19c4f06a-d5c7-4e51-ae2c-56c5367c0d50",
+        "timestamp": "2022-01-27T19:03:57.025Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-28T06:04:25.017Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "9893c80d-f282-46cf-a794-280f0306c936",
+        "timestamp": "2022-01-28T01:22:42.020Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-28T01:22:37.018Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "9893c80d-f282-46cf-a794-280f0306c936",
+        "timestamp": "2022-01-27T23:30:10.027Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-27T22:25:25.040Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2022-01-27T23:30:35.015Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "66bd55df-eaf0-49c8-b9e1-7759b85e9325",
+        "timestamp": "2022-01-27T23:30:14.009Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2022-01-27T21:09:09.033Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "9893c80d-f282-46cf-a794-280f0306c936",
+        "timestamp": "2022-01-27T21:09:08.047Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "66bd55df-eaf0-49c8-b9e1-7759b85e9325",
+        "timestamp": "2022-01-27T19:03:59.004Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-27T16:07:54.035Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2022-01-27T16:07:56.006Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "66bd55df-eaf0-49c8-b9e1-7759b85e9325",
+        "timestamp": "2022-01-27T16:07:55.035Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "9893c80d-f282-46cf-a794-280f0306c936",
+        "timestamp": "2022-01-27T16:07:32.018Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2022-01-27T02:18:22.009Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-27T06:04:09.012Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "9893c80d-f282-46cf-a794-280f0306c936",
+        "timestamp": "2022-01-27T04:29:13.454Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "c9c8b7fb-eaa8-4ab5-ba8f-756f15bb8635",
+        "timestamp": "2022-01-27T01:47:24.005Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "9893c80d-f282-46cf-a794-280f0306c936",
+        "timestamp": "2022-01-27T02:18:24.281Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-26T17:55:52.021Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "66bd55df-eaf0-49c8-b9e1-7759b85e9325",
+        "timestamp": "2022-01-26T01:14:08.016Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "19c4f06a-d5c7-4e51-ae2c-56c5367c0d50",
+        "timestamp": "2022-01-23T20:09:18.036Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2022-01-26T19:33:39.038Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "d44b765e-d86f-46f8-ba46-8cd913c49285",
+        "timestamp": "2022-01-26T16:03:51.029Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "460a67ab-ee58-4279-b96d-ac56ac029d3e",
+        "timestamp": "2022-01-25T03:42:52.040Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "9893c80d-f282-46cf-a794-280f0306c936",
+        "timestamp": "2022-01-25T17:00:07.022Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-26T08:12:51.011Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2022-01-26T01:14:01.027Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-26T05:35:47.011Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-26T01:13:55.009Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "66bd55df-eaf0-49c8-b9e1-7759b85e9325",
+        "timestamp": "2022-01-25T23:46:44.004Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-25T16:03:29.030Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2022-01-25T23:46:43.017Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2022-01-25T16:59:53.010Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "66bd55df-eaf0-49c8-b9e1-7759b85e9325",
+        "timestamp": "2022-01-25T16:47:02.426Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fb20e847-d2a1-4583-b874-393c9d1f3db9",
+        "timestamp": "2022-01-25T04:31:02.020Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-25T08:51:48.004Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2022-01-25T02:01:46.005Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "66bd55df-eaf0-49c8-b9e1-7759b85e9325",
+        "timestamp": "2022-01-25T01:38:28.273Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-25T04:19:38.024Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-25T02:01:42.018Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-24T20:54:59.013Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2022-01-24T22:02:30.026Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "3e937810-3a3b-48d6-80ad-56ae12c3bed8",
+        "timestamp": "2022-01-24T18:40:29.033Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "66bd55df-eaf0-49c8-b9e1-7759b85e9325",
+        "timestamp": "2022-01-24T16:27:34.406Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2022-01-24T16:27:34.015Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-24T16:27:24.009Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fc86bd41-dd55-4d15-bb3f-35e31c7759e6",
+        "timestamp": "2022-01-24T00:36:40.015Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-24T07:46:04.030Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-24T05:10:34.024Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "66bd55df-eaf0-49c8-b9e1-7759b85e9325",
+        "timestamp": "2022-01-23T22:32:05.003Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2022-01-22T21:33:10.113Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-23T06:46:18.016Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "3e937810-3a3b-48d6-80ad-56ae12c3bed8",
+        "timestamp": "2022-01-23T01:43:22.077Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-22T23:06:41.011Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "66bd55df-eaf0-49c8-b9e1-7759b85e9325",
+        "timestamp": "2022-01-22T23:06:20.018Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "9893c80d-f282-46cf-a794-280f0306c936",
+        "timestamp": "2022-01-22T23:06:38.018Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "19c4f06a-d5c7-4e51-ae2c-56c5367c0d50",
+        "timestamp": "2022-01-22T22:16:04.009Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-22T18:16:33.047Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2022-01-22T17:06:19.040Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-22T11:13:14.029Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "9893c80d-f282-46cf-a794-280f0306c936",
+        "timestamp": "2022-01-21T16:20:58.007Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "3e937810-3a3b-48d6-80ad-56ae12c3bed8",
+        "timestamp": "2022-01-22T05:18:20.027Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2022-01-22T02:59:29.002Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fc86bd41-dd55-4d15-bb3f-35e31c7759e6",
+        "timestamp": "2022-01-22T05:18:25.213Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "460a67ab-ee58-4279-b96d-ac56ac029d3e",
+        "timestamp": "2022-01-22T03:06:00.004Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "460a67ab-ee58-4279-b96d-ac56ac029d3e",
+        "timestamp": "2022-01-21T22:47:57.027Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-21T12:26:56.034Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2022-01-21T16:20:35.013Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "66bd55df-eaf0-49c8-b9e1-7759b85e9325",
+        "timestamp": "2022-01-21T02:35:08.024Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2022-01-21T00:38:13.023Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fc86bd41-dd55-4d15-bb3f-35e31c7759e6",
+        "timestamp": "2022-01-20T22:18:24.334Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-20T23:54:41.003Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "66bd55df-eaf0-49c8-b9e1-7759b85e9325",
+        "timestamp": "2022-01-19T23:09:20.221Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2022-01-20T20:39:27.002Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-20T22:38:21.047Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "9893c80d-f282-46cf-a794-280f0306c936",
+        "timestamp": "2022-01-20T21:27:26.007Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "460a67ab-ee58-4279-b96d-ac56ac029d3e",
+        "timestamp": "2022-01-20T17:57:40.031Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-20T21:27:25.005Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "460a67ab-ee58-4279-b96d-ac56ac029d3e",
+        "timestamp": "2022-01-20T00:59:33.001Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fc86bd41-dd55-4d15-bb3f-35e31c7759e6",
+        "timestamp": "2022-01-20T13:56:45.211Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-20T06:42:31.012Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2022-01-19T16:54:07.003Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-20T03:19:00.015Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-19T16:53:55.027Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fc86bd41-dd55-4d15-bb3f-35e31c7759e6",
+        "timestamp": "2022-01-19T20:12:45.144Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-19T05:31:25.025Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fc86bd41-dd55-4d15-bb3f-35e31c7759e6",
+        "timestamp": "2022-01-19T14:14:26.060Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fc86bd41-dd55-4d15-bb3f-35e31c7759e6",
+        "timestamp": "2022-01-19T01:41:52.373Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-19T03:06:14.021Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-18T22:13:20.001Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2022-01-18T19:52:40.004Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-18T11:51:53.015Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-18T07:25:52.029Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-18T04:10:38.004Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-17T23:24:29.002Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "66bd55df-eaf0-49c8-b9e1-7759b85e9325",
+        "timestamp": "2022-01-17T23:24:02.009Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-17T13:56:16.011Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "9893c80d-f282-46cf-a794-280f0306c936",
+        "timestamp": "2022-01-17T16:08:18.027Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-17T05:31:05.020Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "3e937810-3a3b-48d6-80ad-56ae12c3bed8",
+        "timestamp": "2022-01-17T04:36:17.012Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2022-01-16T18:52:15.008Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-17T00:03:44.028Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fb20e847-d2a1-4583-b874-393c9d1f3db9",
+        "timestamp": "2022-01-16T21:43:30.034Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "9893c80d-f282-46cf-a794-280f0306c936",
+        "timestamp": "2022-01-15T19:07:00.006Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fb20e847-d2a1-4583-b874-393c9d1f3db9",
+        "timestamp": "2022-01-16T06:37:49.037Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2022-01-16T01:17:27.009Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-16T01:17:30.013Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-15T19:06:58.035Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2022-01-15T00:59:14.002Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-15T06:12:50.015Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "66bd55df-eaf0-49c8-b9e1-7759b85e9325",
+        "timestamp": "2022-01-15T01:27:01.018Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "3e937810-3a3b-48d6-80ad-56ae12c3bed8",
+        "timestamp": "2022-01-15T00:17:49.040Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "19c4f06a-d5c7-4e51-ae2c-56c5367c0d50",
+        "timestamp": "2022-01-13T00:25:55.006Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "66bd55df-eaf0-49c8-b9e1-7759b85e9325",
+        "timestamp": "2022-01-14T18:51:15.009Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2022-01-14T19:47:20.030Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "9893c80d-f282-46cf-a794-280f0306c936",
+        "timestamp": "2022-01-14T19:47:14.027Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2022-01-14T17:04:27.027Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "9893c80d-f282-46cf-a794-280f0306c936",
+        "timestamp": "2022-01-14T17:04:36.034Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-14T17:04:31.027Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "9893c80d-f282-46cf-a794-280f0306c936",
+        "timestamp": "2022-01-13T22:36:14.027Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-14T07:39:14.034Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2022-01-14T02:41:56.033Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fb20e847-d2a1-4583-b874-393c9d1f3db9",
+        "timestamp": "2022-01-14T04:29:42.013Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "66bd55df-eaf0-49c8-b9e1-7759b85e9325",
+        "timestamp": "2022-01-13T23:44:07.025Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "460a67ab-ee58-4279-b96d-ac56ac029d3e",
+        "timestamp": "2022-01-14T01:54:02.009Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-13T23:43:55.036Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "460a67ab-ee58-4279-b96d-ac56ac029d3e",
+        "timestamp": "2022-01-13T22:36:32.035Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2022-01-13T23:43:48.027Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "9893c80d-f282-46cf-a794-280f0306c936",
+        "timestamp": "2022-01-13T20:36:23.004Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2022-01-13T19:32:20.009Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "66bd55df-eaf0-49c8-b9e1-7759b85e9325",
+        "timestamp": "2022-01-13T18:26:17.302Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-13T16:26:26.016Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "9893c80d-f282-46cf-a794-280f0306c936",
+        "timestamp": "2022-01-13T15:59:02.001Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2022-01-13T16:26:27.004Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "9893c80d-f282-46cf-a794-280f0306c936",
+        "timestamp": "2022-01-12T13:18:04.027Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-13T04:22:50.033Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "3e937810-3a3b-48d6-80ad-56ae12c3bed8",
+        "timestamp": "2022-01-13T00:33:03.002Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fc86bd41-dd55-4d15-bb3f-35e31c7759e6",
+        "timestamp": "2022-01-12T22:14:41.038Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fb20e847-d2a1-4583-b874-393c9d1f3db9",
+        "timestamp": "2022-01-13T00:32:38.018Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-13T00:25:55.015Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "66bd55df-eaf0-49c8-b9e1-7759b85e9325",
+        "timestamp": "2022-01-12T17:21:40.211Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "460a67ab-ee58-4279-b96d-ac56ac029d3e",
+        "timestamp": "2022-01-12T17:21:42.003Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2022-01-12T17:21:40.017Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2022-01-12T13:18:17.004Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "19c4f06a-d5c7-4e51-ae2c-56c5367c0d50",
+        "timestamp": "2022-01-11T23:55:04.015Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-12T04:32:35.002Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "66bd55df-eaf0-49c8-b9e1-7759b85e9325",
+        "timestamp": "2022-01-12T01:46:37.016Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-11T23:54:40.027Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fb20e847-d2a1-4583-b874-393c9d1f3db9",
+        "timestamp": "2022-01-11T08:38:14.018Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "9893c80d-f282-46cf-a794-280f0306c936",
+        "timestamp": "2022-01-11T23:55:01.009Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "66bd55df-eaf0-49c8-b9e1-7759b85e9325",
+        "timestamp": "2022-01-11T23:55:03.017Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "19c4f06a-d5c7-4e51-ae2c-56c5367c0d50",
+        "timestamp": "2022-01-11T22:49:50.026Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2022-01-11T20:20:17.036Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-11T20:20:16.027Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "9893c80d-f282-46cf-a794-280f0306c936",
+        "timestamp": "2022-01-11T20:20:13.006Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "d44b765e-d86f-46f8-ba46-8cd913c49285",
+        "timestamp": "2022-01-11T18:58:56.007Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "66bd55df-eaf0-49c8-b9e1-7759b85e9325",
+        "timestamp": "2022-01-11T17:15:48.021Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "9893c80d-f282-46cf-a794-280f0306c936",
+        "timestamp": "2022-01-11T17:41:07.011Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2022-01-11T17:41:07.011Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2022-01-11T14:35:03.018Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "9893c80d-f282-46cf-a794-280f0306c936",
+        "timestamp": "2022-01-11T14:35:05.008Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "c9c8b7fb-eaa8-4ab5-ba8f-756f15bb8635",
+        "timestamp": "2022-01-11T01:44:32.002Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "66bd55df-eaf0-49c8-b9e1-7759b85e9325",
+        "timestamp": "2022-01-11T04:30:44.003Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2022-01-11T00:27:24.016Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-11T02:37:42.027Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fb20e847-d2a1-4583-b874-393c9d1f3db9",
+        "timestamp": "2022-01-10T04:50:48.004Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "9893c80d-f282-46cf-a794-280f0306c936",
+        "timestamp": "2022-01-10T20:56:29.040Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "66bd55df-eaf0-49c8-b9e1-7759b85e9325",
+        "timestamp": "2022-01-08T21:35:25.021Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "9893c80d-f282-46cf-a794-280f0306c936",
+        "timestamp": "2022-01-10T14:44:32.020Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "3e937810-3a3b-48d6-80ad-56ae12c3bed8",
+        "timestamp": "2022-01-10T04:50:48.040Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2022-01-09T21:37:22.025Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "19c4f06a-d5c7-4e51-ae2c-56c5367c0d50",
+        "timestamp": "2022-01-09T20:11:31.711Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "9893c80d-f282-46cf-a794-280f0306c936",
+        "timestamp": "2022-01-10T04:26:28.039Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "3e937810-3a3b-48d6-80ad-56ae12c3bed8",
+        "timestamp": "2022-01-10T01:43:24.011Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-10T01:03:30.018Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-09T17:30:13.031Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "9893c80d-f282-46cf-a794-280f0306c936",
+        "timestamp": "2022-01-09T21:37:11.027Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fc86bd41-dd55-4d15-bb3f-35e31c7759e6",
+        "timestamp": "2022-01-09T21:30:31.631Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "9893c80d-f282-46cf-a794-280f0306c936",
+        "timestamp": "2022-01-09T03:56:02.027Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "19c4f06a-d5c7-4e51-ae2c-56c5367c0d50",
+        "timestamp": "2022-01-08T19:26:29.007Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-09T05:40:02.016Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-09T03:56:20.007Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "3e937810-3a3b-48d6-80ad-56ae12c3bed8",
+        "timestamp": "2022-01-09T00:43:54.020Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "9893c80d-f282-46cf-a794-280f0306c936",
+        "timestamp": "2022-01-08T22:21:53.013Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-08T21:18:37.022Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2022-01-08T22:21:47.009Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2022-01-08T19:26:13.009Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "9893c80d-f282-46cf-a794-280f0306c936",
+        "timestamp": "2022-01-08T19:26:06.018Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "19c4f06a-d5c7-4e51-ae2c-56c5367c0d50",
+        "timestamp": "2022-01-08T01:12:59.040Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-08T15:52:12.026Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2022-01-08T15:52:12.002Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "9893c80d-f282-46cf-a794-280f0306c936",
+        "timestamp": "2022-01-08T02:07:03.004Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "66bd55df-eaf0-49c8-b9e1-7759b85e9325",
+        "timestamp": "2022-01-08T04:48:12.025Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-08T02:07:04.018Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "19c4f06a-d5c7-4e51-ae2c-56c5367c0d50",
+        "timestamp": "2022-01-07T23:00:57.003Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2022-01-07T21:32:23.027Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-07T18:35:42.017Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-07T16:40:18.009Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "66bd55df-eaf0-49c8-b9e1-7759b85e9325",
+        "timestamp": "2022-01-07T16:58:25.002Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2022-01-06T21:29:53.039Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "460a67ab-ee58-4279-b96d-ac56ac029d3e",
+        "timestamp": "2022-01-06T02:56:42.047Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-07T01:39:28.009Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-06T03:53:13.018Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "3e937810-3a3b-48d6-80ad-56ae12c3bed8",
+        "timestamp": "2022-01-06T19:35:13.002Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2022-01-06T20:09:48.817Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "9893c80d-f282-46cf-a794-280f0306c936",
+        "timestamp": "2022-01-06T18:14:54.018Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "66bd55df-eaf0-49c8-b9e1-7759b85e9325",
+        "timestamp": "2022-01-06T16:15:04.037Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "3e937810-3a3b-48d6-80ad-56ae12c3bed8",
+        "timestamp": "2022-01-06T17:37:35.026Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "9893c80d-f282-46cf-a794-280f0306c936",
+        "timestamp": "2022-01-06T16:15:04.017Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fc86bd41-dd55-4d15-bb3f-35e31c7759e6",
+        "timestamp": "2022-01-06T15:04:39.147Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fc86bd41-dd55-4d15-bb3f-35e31c7759e6",
+        "timestamp": "2022-01-06T01:37:02.113Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "c9c8b7fb-eaa8-4ab5-ba8f-756f15bb8635",
+        "timestamp": "2022-01-05T23:55:07.018Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "3e937810-3a3b-48d6-80ad-56ae12c3bed8",
+        "timestamp": "2022-01-05T22:29:07.600Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "3e937810-3a3b-48d6-80ad-56ae12c3bed8",
+        "timestamp": "2022-01-05T20:14:35.047Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fc86bd41-dd55-4d15-bb3f-35e31c7759e6",
+        "timestamp": "2022-01-05T19:14:19.011Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "66bd55df-eaf0-49c8-b9e1-7759b85e9325",
+        "timestamp": "2022-01-05T16:28:55.017Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-05T17:45:35.013Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "c9c8b7fb-eaa8-4ab5-ba8f-756f15bb8635",
+        "timestamp": "2022-01-05T02:05:23.026Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "66bd55df-eaf0-49c8-b9e1-7759b85e9325",
+        "timestamp": "2022-01-04T23:58:53.002Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2022-01-03T20:54:32.009Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "3e937810-3a3b-48d6-80ad-56ae12c3bed8",
+        "timestamp": "2022-01-04T23:12:34.018Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "66bd55df-eaf0-49c8-b9e1-7759b85e9325",
+        "timestamp": "2022-01-04T19:49:53.006Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "3e937810-3a3b-48d6-80ad-56ae12c3bed8",
+        "timestamp": "2022-01-04T20:48:54.012Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "19c4f06a-d5c7-4e51-ae2c-56c5367c0d50",
+        "timestamp": "2022-01-04T03:23:07.007Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "3e937810-3a3b-48d6-80ad-56ae12c3bed8",
+        "timestamp": "2022-01-04T19:29:15.003Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fc86bd41-dd55-4d15-bb3f-35e31c7759e6",
+        "timestamp": "2022-01-04T16:36:08.040Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "d44b765e-d86f-46f8-ba46-8cd913c49285",
+        "timestamp": "2022-01-03T20:48:45.022Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fc86bd41-dd55-4d15-bb3f-35e31c7759e6",
+        "timestamp": "2022-01-04T12:55:32.034Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "9893c80d-f282-46cf-a794-280f0306c936",
+        "timestamp": "2022-01-03T18:37:19.013Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "460a67ab-ee58-4279-b96d-ac56ac029d3e",
+        "timestamp": "2022-01-03T23:01:17.008Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-04T07:01:08.011Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fc86bd41-dd55-4d15-bb3f-35e31c7759e6",
+        "timestamp": "2022-01-03T23:59:22.002Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-04T03:23:06.009Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fb20e847-d2a1-4583-b874-393c9d1f3db9",
+        "timestamp": "2022-01-04T01:08:18.005Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "c9c8b7fb-eaa8-4ab5-ba8f-756f15bb8635",
+        "timestamp": "2022-01-03T21:29:18.027Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-03T23:53:43.010Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "66bd55df-eaf0-49c8-b9e1-7759b85e9325",
+        "timestamp": "2022-01-03T23:53:28.028Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "3e937810-3a3b-48d6-80ad-56ae12c3bed8",
+        "timestamp": "2022-01-03T22:29:28.036Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "66bd55df-eaf0-49c8-b9e1-7759b85e9325",
+        "timestamp": "2022-01-03T19:35:25.018Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fb20e847-d2a1-4583-b874-393c9d1f3db9",
+        "timestamp": "2022-01-03T19:17:23.013Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "c9c8b7fb-eaa8-4ab5-ba8f-756f15bb8635",
+        "timestamp": "2022-01-03T16:51:17.001Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "66bd55df-eaf0-49c8-b9e1-7759b85e9325",
+        "timestamp": "2022-01-03T17:02:14.006Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "3e937810-3a3b-48d6-80ad-56ae12c3bed8",
+        "timestamp": "2022-01-03T16:58:32.002Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fb20e847-d2a1-4583-b874-393c9d1f3db9",
+        "timestamp": "2022-01-03T06:18:13.037Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-02T08:56:46.006Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "19c4f06a-d5c7-4e51-ae2c-56c5367c0d50",
+        "timestamp": "2022-01-02T21:00:58.002Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "66bd55df-eaf0-49c8-b9e1-7759b85e9325",
+        "timestamp": "2022-01-02T18:57:23.255Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "9893c80d-f282-46cf-a794-280f0306c936",
+        "timestamp": "2022-01-03T03:06:34.015Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "3e937810-3a3b-48d6-80ad-56ae12c3bed8",
+        "timestamp": "2022-01-02T00:39:20.012Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fc86bd41-dd55-4d15-bb3f-35e31c7759e6",
+        "timestamp": "2022-01-02T06:07:20.015Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-01T23:55:09.018Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "3e937810-3a3b-48d6-80ad-56ae12c3bed8",
+        "timestamp": "2022-01-01T22:05:32.031Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fc86bd41-dd55-4d15-bb3f-35e31c7759e6",
+        "timestamp": "2022-01-01T22:05:32.022Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fb20e847-d2a1-4583-b874-393c9d1f3db9",
+        "timestamp": "2022-01-01T06:57:06.040Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-01T12:12:13.033Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fc86bd41-dd55-4d15-bb3f-35e31c7759e6",
+        "timestamp": "2022-01-01T08:46:47.008Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "3e937810-3a3b-48d6-80ad-56ae12c3bed8",
+        "timestamp": "2022-01-01T05:16:42.029Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "9893c80d-f282-46cf-a794-280f0306c936",
+        "timestamp": "2022-01-01T09:29:04.718Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2021-12-30T00:20:41.009Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "460a67ab-ee58-4279-b96d-ac56ac029d3e",
+        "timestamp": "2022-01-01T00:48:03.018Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2022-01-01T00:48:19.006Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "c9c8b7fb-eaa8-4ab5-ba8f-756f15bb8635",
+        "timestamp": "2021-12-31T16:41:54.039Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fb20e847-d2a1-4583-b874-393c9d1f3db9",
+        "timestamp": "2021-12-31T21:23:41.016Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "19c4f06a-d5c7-4e51-ae2c-56c5367c0d50",
+        "timestamp": "2021-12-30T21:20:21.032Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fb20e847-d2a1-4583-b874-393c9d1f3db9",
+        "timestamp": "2021-12-31T16:41:45.040Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2021-12-31T16:58:26.002Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2021-12-31T06:03:19.007Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "3e937810-3a3b-48d6-80ad-56ae12c3bed8",
+        "timestamp": "2021-12-31T00:33:41.002Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "19c4f06a-d5c7-4e51-ae2c-56c5367c0d50",
+        "timestamp": "2021-12-30T17:43:07.024Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2021-12-30T17:43:03.040Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fc86bd41-dd55-4d15-bb3f-35e31c7759e6",
+        "timestamp": "2021-12-30T01:09:48.332Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2021-12-30T09:46:02.036Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "66bd55df-eaf0-49c8-b9e1-7759b85e9325",
+        "timestamp": "2021-12-30T00:20:15.009Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2021-12-30T07:53:14.029Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "c9c8b7fb-eaa8-4ab5-ba8f-756f15bb8635",
+        "timestamp": "2021-12-30T01:13:12.009Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "3e937810-3a3b-48d6-80ad-56ae12c3bed8",
+        "timestamp": "2021-12-30T06:02:12.003Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2021-12-29T15:52:49.027Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "3e937810-3a3b-48d6-80ad-56ae12c3bed8",
+        "timestamp": "2021-12-30T01:13:10.011Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fc86bd41-dd55-4d15-bb3f-35e31c7759e6",
+        "timestamp": "2021-12-29T21:40:21.096Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fc86bd41-dd55-4d15-bb3f-35e31c7759e6",
+        "timestamp": "2021-12-29T17:13:08.128Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "9893c80d-f282-46cf-a794-280f0306c936",
+        "timestamp": "2021-12-29T17:29:22.009Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fb20e847-d2a1-4583-b874-393c9d1f3db9",
+        "timestamp": "2021-12-29T11:57:23.033Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "3e937810-3a3b-48d6-80ad-56ae12c3bed8",
+        "timestamp": "2021-12-29T01:16:55.047Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "66bd55df-eaf0-49c8-b9e1-7759b85e9325",
+        "timestamp": "2021-12-28T20:43:29.008Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2021-12-29T10:29:47.003Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fb20e847-d2a1-4583-b874-393c9d1f3db9",
+        "timestamp": "2021-12-29T02:42:25.016Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fc86bd41-dd55-4d15-bb3f-35e31c7759e6",
+        "timestamp": "2021-12-28T19:23:30.012Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fc86bd41-dd55-4d15-bb3f-35e31c7759e6",
+        "timestamp": "2021-12-28T17:39:47.018Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "66bd55df-eaf0-49c8-b9e1-7759b85e9325",
+        "timestamp": "2021-12-28T17:12:33.030Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fc86bd41-dd55-4d15-bb3f-35e31c7759e6",
+        "timestamp": "2021-12-28T14:24:31.004Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "460a67ab-ee58-4279-b96d-ac56ac029d3e",
+        "timestamp": "2021-12-28T02:46:44.030Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2021-12-28T05:44:54.024Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2021-12-27T22:22:02.021Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "3e937810-3a3b-48d6-80ad-56ae12c3bed8",
+        "timestamp": "2021-12-27T22:45:47.018Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "19c4f06a-d5c7-4e51-ae2c-56c5367c0d50",
+        "timestamp": "2021-12-26T18:57:20.010Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fb20e847-d2a1-4583-b874-393c9d1f3db9",
+        "timestamp": "2021-12-27T18:51:59.004Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fb20e847-d2a1-4583-b874-393c9d1f3db9",
+        "timestamp": "2021-12-27T14:30:53.036Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fb20e847-d2a1-4583-b874-393c9d1f3db9",
+        "timestamp": "2021-12-26T20:40:12.026Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2021-12-26T22:21:30.035Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fb20e847-d2a1-4583-b874-393c9d1f3db9",
+        "timestamp": "2021-12-26T16:26:36.026Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "19c4f06a-d5c7-4e51-ae2c-56c5367c0d50",
+        "timestamp": "2021-12-26T03:01:03.007Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fb20e847-d2a1-4583-b874-393c9d1f3db9",
+        "timestamp": "2021-12-26T13:04:35.030Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fb20e847-d2a1-4583-b874-393c9d1f3db9",
+        "timestamp": "2021-12-26T09:28:12.029Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fb20e847-d2a1-4583-b874-393c9d1f3db9",
+        "timestamp": "2021-12-26T06:18:16.007Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fb20e847-d2a1-4583-b874-393c9d1f3db9",
+        "timestamp": "2021-12-26T04:42:00.002Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fb20e847-d2a1-4583-b874-393c9d1f3db9",
+        "timestamp": "2021-12-25T08:17:59.020Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2021-12-25T18:38:37.017Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "19c4f06a-d5c7-4e51-ae2c-56c5367c0d50",
+        "timestamp": "2021-12-25T18:38:17.030Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "3e937810-3a3b-48d6-80ad-56ae12c3bed8",
+        "timestamp": "2021-12-25T18:18:18.007Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2021-12-24T15:49:46.004Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fc86bd41-dd55-4d15-bb3f-35e31c7759e6",
+        "timestamp": "2021-12-25T06:13:33.005Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2021-12-25T05:42:38.030Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "3e937810-3a3b-48d6-80ad-56ae12c3bed8",
+        "timestamp": "2021-12-25T00:10:42.031Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fb20e847-d2a1-4583-b874-393c9d1f3db9",
+        "timestamp": "2021-12-25T00:10:44.040Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2021-12-24T22:50:07.022Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fb20e847-d2a1-4583-b874-393c9d1f3db9",
+        "timestamp": "2021-12-24T22:25:36.009Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2021-12-24T18:13:38.007Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fc86bd41-dd55-4d15-bb3f-35e31c7759e6",
+        "timestamp": "2021-12-23T23:14:01.003Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "3e937810-3a3b-48d6-80ad-56ae12c3bed8",
+        "timestamp": "2021-12-24T17:47:42.039Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "19c4f06a-d5c7-4e51-ae2c-56c5367c0d50",
+        "timestamp": "2021-12-24T00:18:41.048Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "66bd55df-eaf0-49c8-b9e1-7759b85e9325",
+        "timestamp": "2021-12-23T23:27:57.006Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "9893c80d-f282-46cf-a794-280f0306c936",
+        "timestamp": "2021-12-24T04:59:59.004Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "3e937810-3a3b-48d6-80ad-56ae12c3bed8",
+        "timestamp": "2021-12-24T01:22:46.004Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fb20e847-d2a1-4583-b874-393c9d1f3db9",
+        "timestamp": "2021-12-24T01:22:40.031Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2021-12-23T23:39:35.087Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "c9c8b7fb-eaa8-4ab5-ba8f-756f15bb8635",
+        "timestamp": "2021-12-23T19:31:45.200Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "460a67ab-ee58-4279-b96d-ac56ac029d3e",
+        "timestamp": "2021-12-23T21:44:23.107Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2021-12-23T20:28:53.002Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "9893c80d-f282-46cf-a794-280f0306c936",
+        "timestamp": "2021-12-23T17:52:00.009Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "19c4f06a-d5c7-4e51-ae2c-56c5367c0d50",
+        "timestamp": "2021-12-22T17:35:47.008Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2021-12-23T17:52:14.008Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fb20e847-d2a1-4583-b874-393c9d1f3db9",
+        "timestamp": "2021-12-23T06:17:11.009Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2021-12-23T15:42:16.004Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "9893c80d-f282-46cf-a794-280f0306c936",
+        "timestamp": "2021-12-23T15:42:16.011Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fc86bd41-dd55-4d15-bb3f-35e31c7759e6",
+        "timestamp": "2021-12-23T15:21:19.016Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "c9c8b7fb-eaa8-4ab5-ba8f-756f15bb8635",
+        "timestamp": "2021-12-23T06:15:15.062Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "c9c8b7fb-eaa8-4ab5-ba8f-756f15bb8635",
+        "timestamp": "2021-12-23T03:21:11.012Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fb20e847-d2a1-4583-b874-393c9d1f3db9",
+        "timestamp": "2021-12-23T04:07:40.017Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2021-12-23T03:56:44.018Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2021-12-23T00:52:37.022Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "66bd55df-eaf0-49c8-b9e1-7759b85e9325",
+        "timestamp": "2021-12-22T19:11:38.031Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2021-12-21T01:40:48.040Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2021-12-22T14:22:11.394Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "66bd55df-eaf0-49c8-b9e1-7759b85e9325",
+        "timestamp": "2021-12-21T22:38:59.048Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "3e937810-3a3b-48d6-80ad-56ae12c3bed8",
+        "timestamp": "2021-12-22T02:17:10.002Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fb20e847-d2a1-4583-b874-393c9d1f3db9",
+        "timestamp": "2021-12-22T02:43:43.035Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "19c4f06a-d5c7-4e51-ae2c-56c5367c0d50",
+        "timestamp": "2021-12-21T22:52:04.009Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "9893c80d-f282-46cf-a794-280f0306c936",
+        "timestamp": "2021-12-22T00:40:20.009Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "3e937810-3a3b-48d6-80ad-56ae12c3bed8",
+        "timestamp": "2021-12-21T23:20:29.031Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fb20e847-d2a1-4583-b874-393c9d1f3db9",
+        "timestamp": "2021-12-21T23:20:34.030Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "c9c8b7fb-eaa8-4ab5-ba8f-756f15bb8635",
+        "timestamp": "2021-12-20T01:47:29.030Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2021-12-21T20:00:11.018Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "66bd55df-eaf0-49c8-b9e1-7759b85e9325",
+        "timestamp": "2021-12-21T20:00:05.027Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "4d210a10-6c23-41c4-92e1-5b1833f7b54a",
+        "timestamp": "2021-12-21T17:13:58.013Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "9893c80d-f282-46cf-a794-280f0306c936",
+        "timestamp": "2021-12-21T17:14:20.030Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "460a67ab-ee58-4279-b96d-ac56ac029d3e",
+        "timestamp": "2021-12-21T01:40:52.005Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fb20e847-d2a1-4583-b874-393c9d1f3db9",
+        "timestamp": "2021-12-20T01:47:29.013Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2021-12-20T22:16:19.034Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "9893c80d-f282-46cf-a794-280f0306c936",
+        "timestamp": "2021-12-20T18:24:53.015Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "19c4f06a-d5c7-4e51-ae2c-56c5367c0d50",
+        "timestamp": "2021-12-20T17:45:08.022Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2021-12-20T13:36:17.007Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "3e937810-3a3b-48d6-80ad-56ae12c3bed8",
+        "timestamp": "2021-12-20T01:17:27.210Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "460a67ab-ee58-4279-b96d-ac56ac029d3e",
+        "timestamp": "2021-12-20T01:27:48.039Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2021-12-20T01:27:52.014Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "c9c8b7fb-eaa8-4ab5-ba8f-756f15bb8635",
+        "timestamp": "2021-12-19T22:26:13.009Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "3e937810-3a3b-48d6-80ad-56ae12c3bed8",
+        "timestamp": "2021-12-19T18:16:16.003Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fb20e847-d2a1-4583-b874-393c9d1f3db9",
+        "timestamp": "2021-12-19T18:16:14.017Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "19c4f06a-d5c7-4e51-ae2c-56c5367c0d50",
+        "timestamp": "2021-12-19T18:33:46.004Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "19c4f06a-d5c7-4e51-ae2c-56c5367c0d50",
+        "timestamp": "2021-12-19T07:31:53.009Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "3e937810-3a3b-48d6-80ad-56ae12c3bed8",
+        "timestamp": "2021-12-19T00:38:58.497Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fb20e847-d2a1-4583-b874-393c9d1f3db9",
+        "timestamp": "2021-12-19T13:14:57.012Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fb20e847-d2a1-4583-b874-393c9d1f3db9",
+        "timestamp": "2021-12-19T08:17:12.031Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "f0704100-56e6-4117-ae4f-cf97e5d2d132",
+        "timestamp": "2021-12-19T07:32:14.004Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fb20e847-d2a1-4583-b874-393c9d1f3db9",
+        "timestamp": "2021-12-19T05:54:05.037Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "fb20e847-d2a1-4583-b874-393c9d1f3db9",
+        "timestamp": "2021-12-19T04:10:51.041Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "460a67ab-ee58-4279-b96d-ac56ac029d3e",
+        "timestamp": "2021-12-18T22:45:17.030Z",
+        "type": "artificial_event"
+    },
+    {
+        "vehicleId": "3e937810-3a3b-48d6-80ad-56ae12c3bed8",
+        "timestamp": "2021-12-18T18:53:37.067Z",
+        "type": "artificial_event"
+    }
+]
